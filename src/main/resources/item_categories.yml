@@ -1,0 +1,9 @@
+craftory:
+  icon: craftory:iron_energy_cell
+  name: menu.craftory.items.category.craftory
+  priority: 2
+  items:
+    - craftory:iron_energy_cell
+    - craftory:gold_energy_cell
+    - craftory:diamond_energy_cell
+    - craftory:emerald_energy_cell

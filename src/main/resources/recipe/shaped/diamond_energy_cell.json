@@ -1,0 +1,11 @@
+{
+  "result": "craftory:diamond_energy_cell",
+  "shape": [
+    "   ",
+    " d ",
+    "   "
+  ],
+  "ingredients": {
+    "d": "nova:diamond_plate; minecraft:diamond"
+  }
+}

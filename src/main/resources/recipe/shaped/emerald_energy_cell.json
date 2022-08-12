@@ -1,0 +1,11 @@
+{
+  "result": "craftory:emerald_energy_cell",
+  "shape": [
+    "   ",
+    " e ",
+    "   "
+  ],
+  "ingredients": {
+    "e": "minecraft:emerald"
+  }
+}

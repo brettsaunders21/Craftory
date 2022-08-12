@@ -1,0 +1,11 @@
+{
+  "result": "craftory:gold_energy_cell",
+  "shape": [
+    "   ",
+    " g ",
+    "   "
+  ],
+  "ingredients": {
+    "g": "nova:gold_plate; minecraft:gold_ingot"
+  }
+}

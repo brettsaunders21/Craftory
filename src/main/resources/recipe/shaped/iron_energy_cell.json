@@ -1,0 +1,11 @@
+{
+  "result": "craftory:iron_energy_cell",
+  "shape": [
+    "   ",
+    " i ",
+    "   "
+  ],
+  "ingredients": {
+    "i": "nova:iron_plate; minecraft:iron_ingot"
+  }
+}

@@ -1,7 +1,7 @@
-id: example
-name: Example
+id: craftory
+name: Craftory
 version: "${project.version}"
-main: com.example.ExampleAddon
+main: studio.craftory.Craftory
 novaVersion: "${nova.version}"
-author: ExampleAuthor
-spigotResourceId: 12345
+author: Brett Saunders
+spigotResourceId: 81151

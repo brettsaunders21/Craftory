@@ -1,0 +1,26 @@
+{
+  "iron_energy_cell": {
+    "item": "block/iron_energy_cell",
+    "block": {
+      "type": "solid"
+    }
+  },
+  "gold_energy_cell": {
+    "item": "block/gold_energy_cell",
+    "block": {
+      "type": "solid"
+    }
+  },
+  "diamond_energy_cell": {
+    "item": "block/diamond_energy_cell",
+    "block": {
+      "type": "solid"
+    }
+  },
+  "emerald_energy_cell": {
+    "item": "block/emerald_energy_cell",
+    "block": {
+      "type": "solid"
+    }
+  }
+}

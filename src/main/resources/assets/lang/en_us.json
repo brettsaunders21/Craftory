@@ -1,0 +1,7 @@
+{
+  "block.craftory.iron_energy_cell": "Iron Energy Cell",
+  "block.craftory.gold_energy_cell": "Gold Energy Cell",
+  "block.craftory.diamond_energy_cell": "Diamond Energy Cell",
+  "block.craftory.emerald_energy_cell": "Emerald Energy Cell",
+  "menu.craftory.items.category.craftory": "Craftory"
+}

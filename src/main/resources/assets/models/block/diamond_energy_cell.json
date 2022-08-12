@@ -1,0 +1,14 @@
+{
+	"parent": "craftory:block/base_energy_cell",
+	"textures": {
+		"2": "craftory:block/powered/generic/plugs/plug_bottom",
+		"3": "craftory:block/powered/generic/plugs/plug_east",
+		"4": "craftory:block/powered/generic/plugs/plug_north",
+		"5": "craftory:block/powered/generic/plugs/plug_south",
+		"6": "craftory:block/powered/generic/plugs/plug_top",
+		"7": "craftory:block/powered/generic/plugs/plug_west",
+		"particle": "craftory:block/powered/cores/diamond_block",
+		"8": "craftory:block/powered/cores/diamond_block",
+		"9": "craftory:block/powered/generic/containment"
+	}
+}
